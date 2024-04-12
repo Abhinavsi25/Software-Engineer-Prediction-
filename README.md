@@ -1,2 +1,7 @@
-![image](https://github.com/Abhinavsi25/Software-Engineer-Prediction-/assets/79821571/5b4062dc-94f9-4e5f-944e-d45190398bcd)
-![image](https://github.com/Abhinavsi25/Software-Engineer-Prediction-/assets/79821571/cf2a5eee-239f-48a2-8505-eb5fafcd14d0)
+# Build A Salary Prediction Web App With Streamlit
+
+Build a Machine Learning web application from scratch in Python with Streamlit. We use real world data to build a machine learning model. In the first part of the video you learn how we analyze the data and build our model, and in the second part we build the web app using streamlit.
+
+Watch the video on YouTube:  
+[![Alt text](https://img.youtube.com/vi/xl0N7tHiwlw/hqdefault.jpg)](https://youtu.be/xl0N7tHiwlw)  
+[https://youtu.be/xl0N7tHiwlw](https://youtu.be/xl0N7tHiwlw)
