@@ -12,4 +12,5 @@ In this project I will use machine learning to predict average salary of Softwar
 ![Explore Page](https://github.com/Abhinavsi25/Software-Engineer-Prediction-/blob/main/Explore%20page1.png)
 
 
+
 ![Explore Page](https://github.com/Abhinavsi25/Software-Engineer-Prediction-/blob/main/Explore%20page2.png)
